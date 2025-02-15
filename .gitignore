@@ -1,0 +1,4 @@
+*.parquet
+/MBD/
+/MBD_mini/
+*-checkpoint.ipynb
